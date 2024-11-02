@@ -20,7 +20,7 @@
 
 ## Education
 
-> + **2019 —— 2023: Chinese University of Minging and Technology —— Undergraduate;**
+> + **2019 —— 2023: Chinese University of Minging and Technology, Beijing —— Undergraduate;**
 > + **2023 —— now:  Chinese University of Hongkong —— Master of Philosophy**
 
 
@@ -29,9 +29,9 @@
 
 
 ## Some student talks I gave
-> + [Stable envelopes](talk1.pdf) 
-> + [Brideland stability condition](stability.pdf)
-> + [Bow varieties](BowVarieties.pdf) 
+> + 
+> + 
+> +  
 
 ## My Emails
 > + **Email 1: zyye@math.cuhk.edu.hk**
