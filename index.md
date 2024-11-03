@@ -31,15 +31,17 @@
 > + [A weight two phenomenon for the moduli of rank one local systems on open varieties, C.Simpson](Weight2_Rank1_by_Simpson.pdf)
 > + [From the Hitchin section to opers through nonabelian Hodge, DFKMMN](from_hitchin_section_to_opers.pdf)
 > + [Higgs Bundle and SYZ Geometry, S.Heller](HiggsBundleandSYZ.pdf)
-> + [Loop group methods for the non-abelian Hodge correspondence on a 4-punctured sphere](LoopGroupMethod.pdf)
+> + [Loop group methods for the non-abelian Hodge correspondence on a 4-punctured sphere, S.Heller](LoopGroupMethod.pdf)
 > + [Hyper-Kähler Structures on Moduli Spaces of Parabolic Higgs Bundles on Riemann Surfaces, H.Nakajima](Nakajima.pdf)
 > + [Symplectic geometry of a moduli space of framed Higgs bundles, I.Biswas](Symplectic_form_on_framed_higgs_bundle_biswas.pdf)
 
 
 
-## Core Course
-> + 
-> + 
+## Notes of Core Course
+> + [Integrable PDE and DH-Moduli I.pdf](IntegrablePDEandDH-ModuliI.pdf)
+> + [Integrable PDE and DH-Moduli II.pdf](IntegrablePDEandDH-ModuliII.pdf)
+> + [Integrable PDE and DH-Moduli III.pdf](IntegrablePDEandDH-ModuliIII.pdf)
+> + [Integrable PDE and DH-Moduli IV.pdf](IntegrablePDEandDH-ModuliIV.pdf)
 > +  
 
 ## My Emails
