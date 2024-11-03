@@ -24,7 +24,7 @@
 > + **2023 —— now:  Chinese University of Hongkong —— Master of Philosophy**
 
 
-## Some Notes About Selective Papers
+## Math Notes about Higgs Bundle and Hitchin Moduli
 > + [Moduli Space of Flat Connection on Puncture Riemann Surface](Punctured_Riemann_Surface.pdf)
 > + [The Self Duality Equation on a Riemann Surface, N.Hitchin](SelfdualityEQuation.pdf)
 > + [Harmonic Bundle over Non Compact Curves, C.Simpson](Simpson‘s_Harmonic_Bundle.pdf)
