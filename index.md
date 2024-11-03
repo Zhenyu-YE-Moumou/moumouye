@@ -14,7 +14,7 @@
 </table>
 
 ### About Me
->I'm a Mphil student under the supervision of Conan Leung. I'm interested in higgs bundle, an object which connects different parts of mathematics
+>I'm a Mphil student under the supervision of Conan Leung. I'm interested in higgs bundle, an object which connects different parts of mathematics such as differential geometry, complex algebraic geometry and symplectic geometry.
 
 
 
@@ -26,7 +26,8 @@
 
 ## Some Notes About Selective Papers
 > + [Moduli Space of Flat Connection on Puncture Riemann Surface](Punctured_Riemann_Surface.pdf)
-> + 
+> + [The Self Duality Equation on a Riemann Surfaces (by N.Hitchin)](Self duality EQuation.pdf)
+
 
 
 
