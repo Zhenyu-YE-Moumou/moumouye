@@ -26,7 +26,7 @@
 
 ## Some Notes About Selective Papers
 > + [Moduli Space of Flat Connection on Puncture Riemann Surface](Punctured_Riemann_Surface.pdf)
-> + [The Self Duality Equation on a Riemann Surface, N.Hitchin](https://github.com/Zhenyu-YE-Moumou/moumouye#:~:text=Self%20duality%20EQuation.pdf)
+> + [The Self Duality Equation on a Riemann Surface](Self duality EQuation.pdf)
 > + [Harmonic_Bundle over non Compact Curve.pdf](https://github.com/Zhenyu-YE-Moumou/moumouye/blob/main/Simpson%E2%80%98s_Harmonic_Bundle.pdf)
 > + [Loop group methods for the non-abelian Hodge correspondence on a 4-punctured sphere, S.Heller](https://github.com/Zhenyu-YE-Moumou/moumouye/blob/main/Loop%20Group%20Method.pdf))
 > + [Higgs bundles and SYZ geometry, S.Heller](https://github.com/Zhenyu-YE-Moumou/moumouye#:~:text=Higgs%20Bundle%20and%20SYZ.pdf)
