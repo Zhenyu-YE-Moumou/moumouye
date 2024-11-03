@@ -26,7 +26,8 @@
 
 ## Some Notes About Selective Papers
 > + [Moduli Space of Flat Connection on Puncture Riemann Surface](Punctured_Riemann_Surface.pdf)
-> + [The Self-Duality Equations on a Riemann Surface](Self duality EQuation.pdf)
+> + [The Self Duality Equation on a Riemann Surface(By N.Hitchin)](https://github.com/Zhenyu-YE-Moumou/moumouye#:~:text=Self%20duality%20EQuation.pdf)
+> + [Harmonic Bundles on Noncompact Curves](https://github.com/Zhenyu-YE-Moumou/moumouye#:~:text=Simpson%E2%80%98s_Harmonic_Bundle.pdf)
 
 
 
