@@ -27,9 +27,13 @@
 ## Some Notes About Selective Papers
 > + [Moduli Space of Flat Connection on Puncture Riemann Surface](Punctured_Riemann_Surface.pdf)
 > + [The Self Duality Equation on a Riemann Surface, N.Hitchin](SelfdualityEQuation.pdf)
-> + [Harmonic Bundle over Non Compact Curves](Simpson‘s_Harmonic_Bundle.pdf)
-> + 
-
+> + [Harmonic Bundle over Non Compact Curves, C.Simpson](Simpson‘s_Harmonic_Bundle.pdf)
+> + [A weight two phenomenon for the moduli of rank one local systems on open varieties, C.Simpson](Weight2_Rank1_by_Simpson.pdf)
+> + [From the Hitchin section to opers through nonabelian Hodge, DFKMMN](from_hitchin_section_to_opers.pdf)
+> + [Higgs Bundle and SYZ Geometry, S.Heller](HiggsBundleandSYZ.pdf)
+> + [Loop group methods for the non-abelian Hodge correspondence on a 4-punctured sphere](LoopGroupMethod.pdf)
+> + [Hyper-Kähler Structures on Moduli Spaces of Parabolic Higgs Bundles on Riemann Surfaces, H.Nakajima](Nakajima.pdf)
+> + [Symplectic geometry of a moduli space of framed Higgs bundles, I.Biswas](Symplectic_form_on_framed_higgs_bundle_biswas.pdf)
 
 
 
