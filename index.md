@@ -24,8 +24,8 @@
 > + **2023 —— now:  Chinese University of Hongkong —— Master of Philosophy**
 
 
-## Some Notes About Mathematics
-> + [Notes on 123](Punctured_Riemann_Surface.pdf) **(Many typos)**
+## Some Notes About Selective Papers
+> + [Notes on 123](Punctured_Riemann_Surface.pdf) 
 
 
 
