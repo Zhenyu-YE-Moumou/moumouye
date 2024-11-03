@@ -26,7 +26,7 @@
 
 ## Some Notes About Selective Papers
 > + [Moduli Space of Flat Connection on Puncture Riemann Surface](Punctured_Riemann_Surface.pdf)
-> + [The Self Duality Equation on a Riemann Surfaces (by N.Hitchin)](Self duality EQuation.pdf)
+> + [The Self-Duality Equations on a Riemann Surface](Self duality EQuation.pdf)
 
 
 
