@@ -43,6 +43,9 @@
 > + [Integrable PDE and DH-Moduli III.pdf](IntegrablePDEandDH-ModuliIII.pdf)
 > + [Integrable PDE and DH-Moduli IV.pdf](Integrable_PDE_and_DH-Moduli_IV.pdf)
 
+## Travel (to workshops, summer schools and so on)
+> + Aug 16 - Aug 23, 2024, Workshop on Hodge theory 2024, University of Science and Technology of China, Hefei, China.
+> + June 24 - July 5, 2024, Integrable Systems and Algebraic Geometry, BIMSA, Beijing, China.
 
 ## My Emails
 > + **Email 1: zyye@math.cuhk.edu.hk**
