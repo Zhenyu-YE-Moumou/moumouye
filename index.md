@@ -25,7 +25,7 @@
 
 
 ## Math Notes about Higgs Bundle and Hitchin Moduli
-> + [Mirror symmetry without corrections, Conan.Leung](MirrorSymmetrywithoutCorrection.pdf)
+> + [Mirror symmetry without corrections, Conan Leung](MirrorSymmetrywithoutCorrection.pdf)
 > + [The Self Duality Equation on a Riemann Surface, N.Hitchin](SelfdualityEQuation.pdf)
 > + [Harmonic Bundle over Non Compact Curves, C.Simpson](Simpson‘s_Harmonic_Bundle.pdf)
 > + [A weight two phenomenon for the moduli of rank one local systems on open varieties, C.Simpson](Weight2_Rank1_by_Simpson.pdf)
