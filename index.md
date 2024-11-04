@@ -25,7 +25,7 @@
 
 
 ## Math Notes about Higgs Bundle and Hitchin Moduli
-> + [Moduli Space of Flat Connection on Puncture Riemann Surface](Punctured_Riemann_Surface.pdf)
+> + [Mirror symmetry without corrections, Conan.Leung](MirrorSymmetrywithoutCorrection.pdf)
 > + [The Self Duality Equation on a Riemann Surface, N.Hitchin](SelfdualityEQuation.pdf)
 > + [Harmonic Bundle over Non Compact Curves, C.Simpson](Simpson‘s_Harmonic_Bundle.pdf)
 > + [A weight two phenomenon for the moduli of rank one local systems on open varieties, C.Simpson](Weight2_Rank1_by_Simpson.pdf)
@@ -34,7 +34,7 @@
 > + [Loop group methods for the non-abelian Hodge correspondence on a 4-punctured sphere, S.Heller](LoopGroupMethod.pdf)
 > + [Hyper-Kähler Structures on Moduli Spaces of Parabolic Higgs Bundles on Riemann Surfaces, H.Nakajima](Nakajima.pdf)
 > + [Symplectic geometry of a moduli space of framed Higgs bundles, I.Biswas](Symplectic_form_on_framed_higgs_bundle_biswas.pdf)
-
+> + [Moduli Space of Flat Connection on Puncture Riemann Surface](Punctured_Riemann_Surface.pdf)
 
 
 ## Notes of Core Course
